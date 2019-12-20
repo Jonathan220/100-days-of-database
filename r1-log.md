@@ -11,3 +11,7 @@ Hoje estudei um pouco sobre SQL, mas devido ao pouco tempo e por ser o primeiro 
 ### R1D2
 
 Mais algumas leituras sobre SQL. Entendendo como a linguagem funciona.
+
+### R1D3
+
+Tenho agilizado o estudo através de uma video aula. Estou quase a terminando.
