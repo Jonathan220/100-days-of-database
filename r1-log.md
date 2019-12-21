@@ -15,3 +15,7 @@ Mais algumas leituras sobre SQL. Entendendo como a linguagem funciona.
 ### R1D3
 
 Tenho agilizado o estudo através de uma video aula. Estou quase a terminando.
+
+### R1D4
+
+Terminei a video aula com o básico para realizar consultas e alterar tabelas. Agora estou começando a realizar exercícios.
