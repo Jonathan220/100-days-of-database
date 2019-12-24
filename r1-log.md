@@ -19,3 +19,7 @@ Tenho agilizado o estudo através de uma video aula. Estou quase a terminando.
 ### R1D4
 
 Terminei a video aula com o básico para realizar consultas e alterar tabelas. Agora estou começando a realizar exercícios.
+
+### R1D5
+
+Mais algumas consultas com join.
