@@ -23,3 +23,7 @@ Terminei a video aula com o básico para realizar consultas e alterar tabelas. A
 ### R1D5
 
 Mais algumas consultas com join.
+
+### R1D6
+
+Se acostumando com join de três tabelas e realizando operações matemáticas.
