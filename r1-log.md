@@ -27,3 +27,7 @@ Mais algumas consultas com join.
 ### R1D6
 
 Se acostumando com join de três tabelas e realizando operações matemáticas.
+
+### R1D7
+
+Mais consultas elaboradas com subqueries e alguma matemática.
