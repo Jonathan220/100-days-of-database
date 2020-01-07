@@ -31,3 +31,7 @@ Se acostumando com join de três tabelas e realizando operações matemáticas.
 ### R1D7
 
 Mais consultas elaboradas com subqueries e alguma matemática.
+
+### R1D8 - R1D9
+
+Lendo o livro learning SQL, revisando alguns conceitos básicos de SQL.
