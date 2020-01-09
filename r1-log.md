@@ -35,3 +35,7 @@ Mais consultas elaboradas com subqueries e alguma matemática.
 ### R1D8 - R1D9
 
 Lendo o livro learning SQL, revisando alguns conceitos básicos de SQL.
+
+### R1D10
+
+Prossseguindo com a leitura do livro.
